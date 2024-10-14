@@ -1,6 +1,14 @@
+// Foi Ultilizado
+/*
+- Variáveis
+- Operadores
+- Estruturas de decisões
+- Funções 
+*/
+
 let wins = 150;
-let lose = 5;
-let balanceWins = wins - lose;
+let defeats = 5;
+let balanceWins = wins - defeats;
 
 
 
